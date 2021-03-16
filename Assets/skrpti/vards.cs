@@ -13,7 +13,7 @@ public class vards : MonoBehaviour
     public GameObject gadins;
  public void uzgabatTekstu(){
      teksts=ievadlauks.GetComponent<Text>().text;
-cauvins.GetComponent<Text>().text="Jūsu vārds ir: "+teksts+" un jūs esat "+gads+" vecs/-a";
+     cauvins.GetComponent<Text>().text="Jūsu vārds ir: "+teksts+" un jūs esat "+gads+" vecs/-a";
      gads=ievade.GetComponent<Text>().text;
      gadins.GetComponent<Text>().text="Jūsu vārds ir: "+teksts+" un jūs esat "+gads+" vecs/-a";
  }
