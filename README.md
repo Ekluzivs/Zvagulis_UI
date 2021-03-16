@@ -5,5 +5,7 @@ arī mierīga mūzika fonā skan kamēr jūs izvēlaties ko viņš/-a vilks
 
 ### ir trīs bruņas:
 dimanta bruņas
+
 dzelžu bruņas
+
 Ādas bruņas
